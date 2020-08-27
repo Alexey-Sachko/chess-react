@@ -1,0 +1,42 @@
+.figure {
+  width: 50px;
+  height: 50px;
+}
+
+.rook.black {
+  background-image: url('./images/blackRook.png');
+}
+.knight.black {
+  background-image: url('./images/blackKnight.png');
+}
+.bishop.black {
+  background-image: url('./images/blackBishop.png');
+}
+.king.black {
+  background-image: url('./images/blackKing.png');
+}
+.queen.black {
+  background-image: url('./images/blackQueen.png');
+}
+.pawn.black {
+  background-image: url('./images/blackPawn.png');
+}
+
+.rook.white {
+  background-image: url('./images/whiteRook.png');
+}
+.knight.white {
+  background-image: url('./images/whiteKnight.png');
+}
+.bishop.white {
+  background-image: url('./images/whiteBishop.png');
+}
+.king.white {
+  background-image: url('./images/whiteKing.png');
+}
+.queen.white {
+  background-image: url('./images/whiteQueen.png');
+}
+.pawn.white {
+  background-image: url('./images/whitePawn.png');
+}
